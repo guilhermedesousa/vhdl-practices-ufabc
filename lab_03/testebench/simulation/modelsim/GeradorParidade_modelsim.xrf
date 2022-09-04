@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Programas Cycone II/aula08/GeradorParidade.vhd
+source_file = 1, C:/Programas Cycone II/aula08/db/GeradorParidade.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = GeradorParidade
+instance = comp, \A3~I\, A3, GeradorParidade, 1
+instance = comp, \A0~I\, A0, GeradorParidade, 1
+instance = comp, \A2~I\, A2, GeradorParidade, 1
+instance = comp, \A1~I\, A1, GeradorParidade, 1
+instance = comp, \P~0\, P~0, GeradorParidade, 1
+instance = comp, \P~I\, P, GeradorParidade, 1

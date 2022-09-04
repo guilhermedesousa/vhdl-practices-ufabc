@@ -1,0 +1,22 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY DecodificadorDoisBits IS
+	PORT(S0,S1,EN: IN std_logic;
+			HEX0: IN std_logic_vector(6 downto 0));
+END DecodificadorDoisBits;
+
+ARCHITECTURE Behavior OF DecodificadorDoisBits IS
+BEGIN
+	PROCESS (EN)
+		BEGIN
+			IF (EN = '1') THEN
+				HEX0 <= "0000100" WHEN (S0 = '0' AND S1 = '1') ELSE
+				HEX0 <= "0100100"	WHEN (S0 = '0' AND S1 = '1') ELSE
+				HEX0 <= "0000001" WHEN (S0 = '1' AND S1 = '0') ELSE
+				"1001111";
+			ELSE
+				HEX0 <= "1111111";
+			END IF;
+	END PROCESS;
+END Behavior;

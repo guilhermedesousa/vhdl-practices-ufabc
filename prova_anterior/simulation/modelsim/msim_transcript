@@ -1,0 +1,36 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do simple_circuit_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Programas Cyclone II/prova_anterior/simple_circuit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity simple_circuit
+# -- Compiling architecture behavior of simple_circuit
+# 
+vcom -reportprogress 300 -work work {C:/Programas Cyclone II/prova_anterior/simulation/modelsim/simple_circuit.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity simple_circuit_vhd_tst
+# -- Compiling architecture simple_circuit_arch of simple_circuit_vhd_tst
+vsim work.simple_circuit_vhd_tst
+# vsim work.simple_circuit_vhd_tst 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.simple_circuit_vhd_tst(simple_circuit_arch)
+# Loading work.simple_circuit(behavior)
+add wave sim:/simple_circuit_vhd_tst/*
+run -all

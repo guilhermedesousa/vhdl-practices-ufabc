@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programas Cyclone II\prova_anterior\simulation\modelsim
+Esimple_circuit
+Z1 w1658150044
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Programas Cyclone II\prova_anterior\simulation\modelsim
+Z5 8C:/Programas Cyclone II/prova_anterior/simple_circuit.vhd
+Z6 FC:/Programas Cyclone II/prova_anterior/simple_circuit.vhd
+l0
+L4
+Vcaj`V39C`>U[_G@l8ZD:z0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1658150552.953000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Programas Cyclone II/prova_anterior/simple_circuit.vhd|
+Z10 !s107 C:/Programas Cyclone II/prova_anterior/simple_circuit.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 DZnCzKGz=WmGQ:mWh_Nz53
+!i10b 1
+Abehavior
+R2
+R3
+DEx4 work 14 simple_circuit 0 22 caj`V39C`>U[_G@l8ZD:z0
+l12
+L9
+VK>12cmK67ORFZ6;;YQB8V2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 cgjeaHS;3KPD8D]dP7zLQ3
+!i10b 1
+Esimple_circuit_vhd_tst
+Z13 w1658150509
+R2
+R3
+R4
+Z14 8C:/Programas Cyclone II/prova_anterior/simulation/modelsim/simple_circuit.vht
+Z15 FC:/Programas Cyclone II/prova_anterior/simulation/modelsim/simple_circuit.vht
+l0
+L30
+V;=YES1Rc5RL`2NjOLUiW61
+!s100 QCT36le?[MeV6Z_>`S;8[1
+R7
+32
+!i10b 1
+Z16 !s108 1658150575.265000
+Z17 !s90 -reportprogress|300|-work|work|C:/Programas Cyclone II/prova_anterior/simulation/modelsim/simple_circuit.vht|
+Z18 !s107 C:/Programas Cyclone II/prova_anterior/simulation/modelsim/simple_circuit.vht|
+Z19 o-work work -O0
+R12
+Asimple_circuit_arch
+R2
+R3
+DEx4 work 22 simple_circuit_vhd_tst 0 22 ;=YES1Rc5RL`2NjOLUiW61
+l47
+L32
+VdkZAj7R:S6K9;@HXY97c[0
+!s100 ^B8N``1z>9eS;4o7bQC<F3
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R19
+R12

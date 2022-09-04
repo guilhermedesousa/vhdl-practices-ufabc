@@ -1,0 +1,35 @@
+# do paridade_herarquico.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module paridade_herarquico
+# 
+# Top level modules:
+# 	paridade_herarquico
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module paridade_herarquico_vlg_sample_tst
+# -- Compiling module paridade_herarquico_vlg_check_tst
+# -- Compiling module paridade_herarquico_vlg_vec_tst
+# 
+# Top level modules:
+# 	paridade_herarquico_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.paridade_herarquico_vlg_vec_tst 
+# Loading work.paridade_herarquico_vlg_vec_tst
+# Loading work.paridade_herarquico
+# Loading cycloneii_ver.cycloneii_io
+# Loading cycloneii_ver.cycloneii_mux21
+# Loading cycloneii_ver.cycloneii_dffe
+# Loading cycloneii_ver.cycloneii_asynch_io
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading work.paridade_herarquico_vlg_sample_tst
+# Loading work.paridade_herarquico_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from paridade_herarquico_v.sdo
+# Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# Loading timing data from paridade_herarquico_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /paridade_herarquico_vlg_vec_tst File: paridade_herarquico.vt
+# Simulation passed !
+# ** Note: $finish    : paridade_herarquico.vt(152)
+#    Time: 400 ns  Iteration: 0  Instance: /paridade_herarquico_vlg_vec_tst/tb_out

@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programas Cyclone II\lab_05\simulation\modelsim
+Esemaforo
+Z1 w1658450621
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Programas Cyclone II\lab_05\simulation\modelsim
+Z6 8C:/Programas Cyclone II/lab_05/semaforo.vhd
+Z7 FC:/Programas Cyclone II/lab_05/semaforo.vhd
+l0
+L5
+VT09l9k7e:1TTGZz0:=YD?0
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1658451180.554000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Programas Cyclone II/lab_05/semaforo.vhd|
+Z11 !s107 C:/Programas Cyclone II/lab_05/semaforo.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 iDf8AdTW49I:`C;SLTbBZ2
+!i10b 1
+Abehavior
+R2
+R3
+R4
+DEx4 work 8 semaforo 0 22 T09l9k7e:1TTGZz0:=YD?0
+l16
+L13
+Ve2al;P]1Id_:d6PkS3n7k2
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 K5h>lNmXfi[C[eH9VVWBK1
+!i10b 1
+Esemaforo_vhd_tst
+Z14 w1658451104
+R3
+R4
+R5
+Z15 8C:/Programas Cyclone II/lab_05/simulation/modelsim/semaforo.vht
+Z16 FC:/Programas Cyclone II/lab_05/simulation/modelsim/semaforo.vht
+l0
+L30
+VgNS9f;oQ6AX_RnUj_D>iC1
+!s100 ^bG3h?hNZUT95nQF1YQ`73
+R8
+32
+!i10b 1
+Z17 !s108 1658451200.095000
+Z18 !s90 -reportprogress|300|-work|work|C:/Programas Cyclone II/lab_05/simulation/modelsim/semaforo.vht|
+Z19 !s107 C:/Programas Cyclone II/lab_05/simulation/modelsim/semaforo.vht|
+Z20 o-work work -O0
+R13
+Asemaforo_arch
+R3
+R4
+DEx4 work 16 semaforo_vhd_tst 0 22 gNS9f;oQ6AX_RnUj_D>iC1
+l52
+L33
+VnadJlP>H@j=zPdiP1FDWT2
+!s100 =NWj8ZWLL0PUgm_mhjPOI0
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R20
+R13

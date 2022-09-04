@@ -1,0 +1,8 @@
+|GeradorParidade
+A3 => P.IN0
+A2 => P.IN1
+A1 => P.IN1
+A0 => P.IN1
+P <= P.DB_MAX_OUTPUT_PORT_TYPE
+
+

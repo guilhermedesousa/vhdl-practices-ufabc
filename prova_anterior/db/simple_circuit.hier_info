@@ -1,0 +1,9 @@
+|simple_circuit
+a => x.IN0
+a => y.IN0
+b => x.IN1
+c => x.IN1
+c => y.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+

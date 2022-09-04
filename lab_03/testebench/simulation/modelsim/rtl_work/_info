@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programas Cycone II\aula08\simulation\modelsim
+Egeradorparidade
+Z1 w1656674940
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Programas Cycone II\aula08\simulation\modelsim
+Z5 8C:/Programas Cycone II/aula08/GeradorParidade.vhd
+Z6 FC:/Programas Cycone II/aula08/GeradorParidade.vhd
+l0
+L4
+V<5XE735BGfn]O7RaDI`2;2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1656675764.570000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Programas Cycone II/aula08/GeradorParidade.vhd|
+Z10 !s107 C:/Programas Cycone II/aula08/GeradorParidade.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 l0^HKU0J8dMLKa;3`>EmL3
+!i10b 1
+Acomportamental
+R2
+R3
+DEx4 work 15 geradorparidade 0 22 <5XE735BGfn]O7RaDI`2;2
+l10
+L9
+VGcEE>PB>F3ET:W]KMggBH2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 X?8NJ]Yo[kea4?Cc7R4_@3
+!i10b 1
+Egeradorparidade_vhd_tst
+Z13 w1656675564
+R2
+R3
+R4
+Z14 8C:/Programas Cycone II/aula08/simulation/modelsim/GeradorParidade.vht
+Z15 FC:/Programas Cycone II/aula08/simulation/modelsim/GeradorParidade.vht
+l0
+L30
+VVNLA0im^fkICa<]bz9G;h2
+!s100 Fb3fec>[jUlN_TbdnIkz]0
+R7
+32
+!i10b 1
+Z16 !s108 1656675834.713000
+Z17 !s90 -reportprogress|300|-work|work|C:/Programas Cycone II/aula08/simulation/modelsim/GeradorParidade.vht|
+Z18 !s107 C:/Programas Cycone II/aula08/simulation/modelsim/GeradorParidade.vht|
+Z19 o-work work -O0
+R12
+Ageradorparidade_arch
+R2
+R3
+DEx4 work 23 geradorparidade_vhd_tst 0 22 VNLA0im^fkICa<]bz9G;h2
+l49
+L32
+VOgL^@Z<G37UJ09KWKB`o71
+!s100 LgJMRm:e6K:nz>:nd12CK1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R19
+R12

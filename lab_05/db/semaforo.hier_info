@@ -1,0 +1,17 @@
+|semaforo
+clk => count[0].CLK
+clk => count[1].CLK
+clk => count[2].CLK
+clk => y~5.DATAIN
+resetn => count[0].ACLR
+resetn => count[1].ACLR
+resetn => count[2].ACLR
+resetn => y~7.DATAIN
+av_princ[2] <= av_princ.DB_MAX_OUTPUT_PORT_TYPE
+av_princ[1] <= av_princ[1].DB_MAX_OUTPUT_PORT_TYPE
+av_princ[0] <= av_princ[0].DB_MAX_OUTPUT_PORT_TYPE
+av_sec[2] <= av_princ.DB_MAX_OUTPUT_PORT_TYPE
+av_sec[1] <= av_sec[1].DB_MAX_OUTPUT_PORT_TYPE
+av_sec[0] <= av_sec[0].DB_MAX_OUTPUT_PORT_TYPE
+
+

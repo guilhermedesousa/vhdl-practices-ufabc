@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Programas Cyclone II/lab_02/xor_vhdl.vhd
+source_file = 1, C:/Programas Cyclone II/lab_02_projeto_hierarquico/paridade_herarquico.bdf
+source_file = 1, C:/Programas Cyclone II/lab_02_projeto_hierarquico/waveform_paridade_hierarquico.vwf
+source_file = 1, C:/Programas Cyclone II/lab_02_projeto_hierarquico/db/paridade_herarquico.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = paridade_herarquico
+instance = comp, \x2~I , x2, paridade_herarquico, 1
+instance = comp, \x1~I , x1, paridade_herarquico, 1
+instance = comp, \x3~I , x3, paridade_herarquico, 1
+instance = comp, \inst1|f~0 , inst1|f~0, paridade_herarquico, 1
+instance = comp, \p~I , p, paridade_herarquico, 1

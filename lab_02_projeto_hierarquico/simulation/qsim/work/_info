@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programas Cyclone II\lab_02_projeto_hierarquico\simulation\qsim
+vparidade_herarquico
+Z1 I=`4[WO46G]nf5?dV:eBM01
+Z2 Vc=D0Y8SIidF@[A`[63>Aa2
+Z3 dC:\Programas Cyclone II\lab_02_projeto_hierarquico\simulation\qsim
+Z4 w1657286786
+Z5 8paridade_herarquico.vo
+Z6 Fparidade_herarquico.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|paridade_herarquico.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 R7F`f:QfjKXU6`X_iS3LF3
+!s85 0
+Z11 !s108 1657286787.790000
+Z12 !s107 paridade_herarquico.vo|
+!s101 -O0
+vparidade_herarquico_vlg_check_tst
+!i10b 1
+Z13 !s100 cgG2cSN8a=3E:_>aVok1z3
+Z14 IAU1EH]8SJ`^nFiE]k2]ES1
+Z15 VR=c;3J0[:jVN@`O878<ma2
+R3
+R4
+Z16 8paridade_herarquico.vt
+Z17 Fparidade_herarquico.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z18 !s108 1657286787.931000
+Z19 !s107 paridade_herarquico.vt|
+Z20 !s90 -work|work|paridade_herarquico.vt|
+!s101 -O0
+R9
+vparidade_herarquico_vlg_sample_tst
+!i10b 1
+Z21 !s100 za?0mHDNg@Cm<eU<l_Y@Q3
+Z22 IL_imT6>nj8]OzT0iQQ03Q2
+Z23 VSZ79FBoPMmd79AJ;AHMoV0
+R3
+R4
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9
+vparidade_herarquico_vlg_vec_tst
+!i10b 1
+Z24 !s100 CNRjS;X9gLDfgLV_AD[l31
+Z25 I``N_fV@Y9bXhJ6=G[aS^H2
+Z26 V=Z^FfW1`cNl_hz@2mAK1n0
+R3
+R4
+R16
+R17
+Z27 L0 156
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9

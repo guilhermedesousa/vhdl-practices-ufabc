@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Programas Cyclone II\lab_01\simulation\qsim
+vxor_schematic
+Z1 I[k_FiAH5111;dj`7l]o_X1
+Z2 V?><V;a`W8jLnJdza9>aQ]3
+Z3 dC:\Programas Cyclone II\lab_01\simulation\qsim
+Z4 w1657284059
+Z5 8xor_schematic.vo
+Z6 Fxor_schematic.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|xor_schematic.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 9RE0HTUZDJ_kIiI`49ajM2
+!s85 0
+Z11 !s108 1657284060.186000
+Z12 !s107 xor_schematic.vo|
+!s101 -O0
+vxor_schematic_vlg_check_tst
+!i10b 1
+Z13 !s100 44JzCagdjNPWMB=n]IFX]2
+Z14 I87O8@fLdcJO8g16ikWRA_0
+Z15 VmCMFmmX6z88T31mPSA=fM0
+R3
+Z16 w1657284058
+Z17 8xor_schematic.vt
+Z18 Fxor_schematic.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z19 !s108 1657284060.296000
+Z20 !s107 xor_schematic.vt|
+Z21 !s90 -work|work|xor_schematic.vt|
+!s101 -O0
+R9
+vxor_schematic_vlg_sample_tst
+!i10b 1
+Z22 !s100 KoHnk>fPla@hA8Cb26_ih3
+Z23 I@@:eH3OO1ibX^<GJ=e_QM3
+Z24 VCLf:HP;0RM4HBhO47gVHa3
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vxor_schematic_vlg_vec_tst
+!i10b 1
+Z25 !s100 zlMOL_J99O[I:zEiI>13I3
+Z26 Iof?7]W69Ca5TEFeARJUQj3
+Z27 ViXGAA^lzLmK=:<bF3jdh_3
+R3
+R16
+R17
+R18
+Z28 L0 154
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
